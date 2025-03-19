@@ -1,0 +1,14 @@
+{
+  "ChartOfAccounts": [
+    {
+      "Code": "100000",
+      "Name": "Cash Account",
+      "Balance": 15000.00
+    },
+    {
+      "Code": "200000",
+      "Name": "Accounts Receivable",
+      "Balance": 25000.50
+    }
+  ]
+}
